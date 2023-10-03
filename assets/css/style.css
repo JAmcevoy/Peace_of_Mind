@@ -1,21 +1,38 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Sofia+Sans:wght@300&display=swap');
 /* generic */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
 body{
     width: 100%;
     color: black;
+    background-color: aquamarine;
     font-family: 'late', sans-serif;
     display: flex;
     flex-direction: column;
 }
  /* header */
 header{
-    
+    text-align: center;
+}
+
+#menu {
+    list-style-type: none;
+    flex-direction: wrap;
+    justify-content: center;
 }
 
 
 /* main */
-
-
+main{
+    background-color: aliceblue;
+    margin: 20px;
+    border: 0 auto;
+}
 
 /* Nav */
 #social-icons {
@@ -33,3 +50,8 @@ header{
     padding: 5%;
     color: #040000;
 }
+
+
+/* media query - for nav     
+display: flex;
+justify-content: space-between; */
