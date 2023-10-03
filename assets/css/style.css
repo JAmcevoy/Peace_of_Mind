@@ -1,7 +1,31 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Sofia+Sans:wght@300&display=swap');
-
+/* generic */
 body{
-    font-family: 'late', sans-serif;
     width: 100%;
+    color: black;
+    font-family: 'late', sans-serif;
+}
+ /* header */
+
+
+
+/* main */
+
+
+
+/* Nav */
+#social-icons {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    margin: 0;
 }
 
+
+#social-icons i {
+    font-size: 160%;
+    padding: 5%;
+    color: #040000;
+}

@@ -26,13 +26,43 @@
         <ul id="menu">
           <li><a href="index.html">Home</a></li>
           <li><a href="benefits.html">Benefits</a></li>
-          <li><a href="techniques">Techniques</a></li>
-          <li><a href="signup.html" class="current">Sign Up For Our News Letter</a></li>
+        <li><a href="techniques.html">Techniques</a></li>
+          <li><a href="signup.html" class="current">Sign Up To Our Mail List</a></li>
         </ul>
       </nav>
     </header>
 
-    <main>Main Content</main>
+    <main>
+        <form>
+            <h5>Your Details</h5>
+            <label for="fist_name">ForeName</label>
+            <input type="text" name="first_name" id="first_name">
+            <br>
+            <label for="last_name">Surname</label>
+            <input type="text" name="last_name id="lats_name">
+            <br>
+            <label for="email">Email Address</label>
+            <input type="email" name="email">
+            <br>
+            <label for="age">Age</label>
+            <input type="number" name="age" id="age" min="1" max="99">
+            <br>
+            <div>
+                <h5>Which Emails Do you Wish to Recieve?</h5>
+                <input type="radio" name="email-type" id="quotes">
+                <label for="quotes">Quotes</label>
+                <br>
+                <input type="radio" name="email-type" id="tips">
+                <label for="tips">Tips and Tricks</label>
+                <br>
+                <input type="radio" name="email-type" id="both">
+                <label for="both">Both</label>
+                <br>
+            </div>
+            <div></div>
+            <div></div>
+        </form>
+    </main>
 
     <footer>
       <ul id="social-icons">
