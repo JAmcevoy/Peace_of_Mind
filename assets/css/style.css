@@ -1,75 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Sofia+Sans:wght@300&display=swap');
-/* generic */
-* {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
 
-}
+
 
 body{
-    width: 100%;
     color: black;
-    background-color: aquamarine;
-    font-family: 'late', sans-serif;
-    display: flex;
-    flex-direction: column;
-}
- /* header */
-header{
     text-align: center;
-}
-
-#menu {
-    list-style-type: none;
-    flex-direction: wrap;
-    justify-content: center;
+    font-family: 'late', sans-serif;
     
 }
 
-a > li {
-    color: #040000;
-}
-
-a:link {
-    text-decoration: none;
-    color: #040000;
-}
-
-.current {
-    text-decoration: overline;
-    color: rgb(26, 44, 101);
-}
-
-
-/* main */
-main{
-    background-color: aliceblue;
-    padding-bottom: 150px;
-
-}
 
 
 
-
-/* Nav */
-#social-icons {
-    text-align: center;
-    padding: 20px 0;
-    display: flex;
-    justify-content: space-evenly;
-    list-style-type: none;
-    margin: 0;
-}
-
-
-#social-icons i {
-    font-size: 160%;
-    padding: 5%;
-    color: #040000;
-}
-
-
-/* media query - for nav     
-display: flex;
-justify-content: space-between; */
