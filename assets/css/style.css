@@ -1,2 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Sofia+Sans:wght@300&display=swap');
 
+body{
+    font-family: 'late', sans-serif;
+    width: 100%;
+}
+
