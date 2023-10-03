@@ -24,15 +24,33 @@ header{
     list-style-type: none;
     flex-direction: wrap;
     justify-content: center;
+    
+}
+
+a > li {
+    color: #040000;
+}
+
+a:link {
+    text-decoration: none;
+    color: #040000;
+}
+
+.current {
+    text-decoration: overline;
+    color: rgb(26, 44, 101);
 }
 
 
 /* main */
 main{
     background-color: aliceblue;
-    margin: 20px;
-    border: 0 auto;
+    padding-bottom: 150px;
+
 }
+
+
+
 
 /* Nav */
 #social-icons {
