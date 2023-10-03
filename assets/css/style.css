@@ -4,6 +4,8 @@ body{
     width: 100%;
     color: black;
     font-family: 'late', sans-serif;
+    display: flex;
+    flex-direction: column;
 }
  /* header */
 
