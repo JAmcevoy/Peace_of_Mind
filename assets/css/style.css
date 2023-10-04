@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Sofia+Sans:wght@300&display=swap');
 
+*{
+    margin: 0;
+}
+
 
 body {
     display: flex;
@@ -34,6 +38,7 @@ body {
 
 #menu {
     list-style-type: none;
+    text-decoration: none;
 }
 
 
@@ -65,4 +70,19 @@ body {
     justify-content: center;
     background-image: url(../images/Stones.jpg) no-repeat center cover/center;
     position: relative;
+}
+
+#social-icons {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+
+#social-icons li {
+    font-size: 160%;
+    padding: 5%;
+    color: #380bac;
 }
