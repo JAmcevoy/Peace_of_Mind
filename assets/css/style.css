@@ -1,14 +1,68 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Sofia+Sans:wght@300&display=swap');
 
 
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Open Sans', sans-serif;
+}
 
-body{
-    color: black;
+
+#heading {
+    padding: 20px;
+    margin: 0px;
+    justify-content: flex-start;
+    color: #ffffff;
     text-align: center;
-    font-family: 'late', sans-serif;
-    
+    border: 0;
+    align-items: flex-start;
+    position: sticky;
+
+}
+
+#head-image {
+    height: 200px;
+    width: 100%;
+    background: url("../images/head3.jpg") no-repeat center center/cover;
+    position: relative;
+
+}
+
+.nav.list {
+    color: #000000;
+}
+
+#menu {
+    list-style-type: none;
 }
 
 
 
+#main-content {
 
+    padding: 20px;
+    margin-top: 0px;
+    justify-content: center;
+    font-size: small;
+
+
+}
+
+
+#email-form {
+
+    padding: 5px 20px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+
+}
+
+#form-background {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    background-image: url(../images/Stones.jpg) no-repeat center cover/center;
+    position: relative;
+}
