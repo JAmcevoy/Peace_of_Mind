@@ -2,6 +2,7 @@
 
 *{
     margin: 0;
+    
 }
 
 
@@ -9,6 +10,8 @@ body {
     display: flex;
     flex-direction: column;
     font-family: 'Open Sans', sans-serif;
+    
+    
 }
 
 
@@ -32,8 +35,11 @@ body {
 
 }
 
-.nav.list {
-    color: #000000;
+a:-webkit-any-link {
+    color: whitesmoke;
+    cursor: pointer;
+    text-decoration: none;
+    align-items: baseline;
 }
 
 #menu {
@@ -72,9 +78,13 @@ body {
     position: relative;
 }
 
+footer{
+    background-color: #000000;
+}
+
 #social-icons {
     text-align: center;
-    padding: 20px 0;
+    padding: 20px 0 0;
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
