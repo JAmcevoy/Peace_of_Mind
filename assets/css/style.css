@@ -42,6 +42,10 @@ a:-webkit-any-link {
     align-items: baseline;
 }
 
+.current {
+    text-decoration: underline;
+}
+
 #menu {
     list-style-type: none;
     text-decoration: none;
