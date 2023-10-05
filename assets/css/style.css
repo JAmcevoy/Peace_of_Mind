@@ -2,6 +2,8 @@
 
 *{
     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     
 }
 
@@ -16,14 +18,12 @@ body {
 
 
 #heading {
-
     padding: 10px 0;
     margin: 0px;
     justify-content: flex-start;
     color: #ffffff;
     text-align: center;
     border: 0;
-    box-shadow: 0px 0px 8px rgba(0, 0, 0, .6);
     
 
 }
@@ -52,27 +52,21 @@ a:-webkit-any-link {
     text-decoration: none;
 }
 
-
+main {
+        flex: 1 0 auto;
+}
 
 #main-content {
-
+    margin-top: 20px;
     padding: 20px;
-    margin-top: 0px;
+    text-align: center;
     justify-content: center;
     font-size: small;
     height: 100%;
     width: 100%;
-
-
 }
 
-.example-imges {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    padding: 10px;
 
-}
 
 
 #email-form {
@@ -82,7 +76,8 @@ a:-webkit-any-link {
     align-items: center;
     display: flex;
     flex-direction: column;
-    width: 50%;
+    width: 200px;
+    height: 400px;%;
 
 }
 
@@ -90,27 +85,39 @@ a:-webkit-any-link {
     display: flex;
     align-content: center;
     justify-content: center;
-    background-image: url(../images/Stones.jpg) no-repeat center cover/center;
-    position: relative;
 }
 
-footer{
-    height: 100px;
-    width: 100%;
-    background-color: #000000;
+#background-image {
+        background-image: url(../images/Stones.jpg) no-repeat center cover/center;
+            position: relative;
 }
+
 
 #social-icons {
     text-align: center;
-    padding: 40px 0 0;
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
 }
 
 
-#social-icons li {
+#social-icons i {
     font-size: 160%;
     padding: 5%;
     color: #380bac;
+}
+
+#submit {
+    color: #ffffff;
+    background-color: rgb(53, 68, 153);
+    padding: 5px;
+    border: 2px solid black;
+}
+
+
+@media screen and (min-width: 320px) {
+    img{
+        height: 400px;
+        width: 100%;
+    }
 }
