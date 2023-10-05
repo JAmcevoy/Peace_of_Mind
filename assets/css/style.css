@@ -54,10 +54,10 @@ a:-webkit-any-link {
 
 main {
         flex: 1 0 auto;
+        background-color: #c9e9f6;
 }
 
 #main-content {
-    margin-top: 20px;
     padding: 20px;
     text-align: center;
     justify-content: center;
@@ -66,18 +66,24 @@ main {
     width: 100%;
 }
 
-
-
+#main-form{
+        padding: 50px;
+            text-align: center;
+            justify-content: center;
+            font-size: small;
+            height: 100%;
+            width: 100%;
+}
 
 #email-form {
-    background-color: transparent;
+    background-color: rgb(51, 196, 186);
     border: 1px solid black;
-    padding: 5px 20px;
+    padding: 10px 30px 0;
     align-items: center;
     display: flex;
     flex-direction: column;
     width: 200px;
-    height: 400px;%;
+    height: 400px;
 
 }
 
@@ -87,11 +93,20 @@ main {
     justify-content: center;
 }
 
-#background-image {
-        background-image: url(../images/Stones.jpg) no-repeat center cover/center;
-            position: relative;
+#submit {
+    color: #ffffff;
+    background-color: rgb(53, 68, 153);
+    padding: 5px;
+    border: 2px solid black;
 }
 
+#buttons {
+    padding: 10px;
+}
+
+footer {
+    padding: 10px 30px 10px;
+}
 
 #social-icons {
     text-align: center;
@@ -105,13 +120,6 @@ main {
     font-size: 160%;
     padding: 5%;
     color: #380bac;
-}
-
-#submit {
-    color: #ffffff;
-    background-color: rgb(53, 68, 153);
-    padding: 5px;
-    border: 2px solid black;
 }
 
 

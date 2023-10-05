@@ -35,31 +35,33 @@
 
     <main>
 
-        <section id="main-content">
+        <section id="main-form">
             <form id="form-background">
                 <div id="email-form">
-                    <h5>Your Details</h5>
+                    <h4>Your Details</h4>
+                    <br>
                     <label for="fist_name">ForeName</label>
-                    <input type="text" name="first_name" id="first_name">
+                    <input type="text" name="first_name" id="first_name" required>
                     <br>
                     <label for="last_name">Surname</label>
-                    <input type="text" name="last_name id=" lats_name">
+                    <input type="text" name="last_name id=" lats_name" required>
                     <br>
                     <label for="email">Email Address</label>
-                    <input type="email" name="email">
+                    <input type="email" name="email" required>
                     <br>
                     <label for="age">Age</label>
-                    <input type="number" name="age" id="age" min="1" max="99">
+                    <input type="number" name="age" id="age" min="1" max="99" required>
                     <br>
-                    <div>
+                    <div id="buttons">
                         <h5>Which Emails Do you Wish to Recieve?</h5>
-                        <input type="radio" name="email-type" id="quotes">
+                        <br>
+                        <input type="radio" name="email-type" id="quotes" required>
                         <label for="quotes">Quotes</label>
                         <br>
-                        <input type="radio" name="email-type" id="tips">
+                        <input type="radio" name="email-type" id="tips" required>
                         <label for="tips">Tips and Tricks</label>
                         <br>
-                        <input type="radio" name="email-type" id="both">
+                        <input type="radio" name="email-type" id="both" required>
                         <label for="both">Both</label>
                         <br>
                     </div>
