@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Sofia+Sans:wght@300&display=swap');
 
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    
+
 }
 
 
@@ -12,8 +12,8 @@ body {
     display: flex;
     flex-direction: column;
     font-family: 'Open Sans', sans-serif;
-    min-height: 100vh; 
-    
+    min-height: 100vh;
+
 }
 
 
@@ -24,7 +24,7 @@ body {
     color: #ffffff;
     text-align: center;
     border: 0;
-    
+
 
 }
 
@@ -43,6 +43,7 @@ a:-webkit-any-link {
     align-items: baseline;
 }
 
+
 .current {
     text-decoration: underline;
 }
@@ -53,8 +54,8 @@ a:-webkit-any-link {
 }
 
 main {
-        flex: 1 0 auto;
-        background-color: #c9e9f6;
+    flex: 1 0 auto;
+    background-color: #c9e9f6;
 }
 
 #main-content {
@@ -66,13 +67,13 @@ main {
     width: 100%;
 }
 
-#main-form{
-        padding: 50px;
-            text-align: center;
-            justify-content: center;
-            font-size: small;
-            height: 100%;
-            width: 100%;
+#main-form {
+    padding: 50px;
+    text-align: center;
+    justify-content: center;
+    font-size: small;
+    height: 100%;
+    width: 100%;
 }
 
 #email-form {
@@ -102,6 +103,7 @@ main {
 
 #buttons {
     padding: 10px;
+    justify-content: space-around;
 }
 
 footer {
@@ -119,13 +121,54 @@ footer {
 #social-icons i {
     font-size: 160%;
     padding: 5%;
-    color: #380bac;
+    color: #150d85;
 }
 
 
-@media screen and (min-width: 320px) {
-    img{
+@media (max-width: 480px) {
+    img {
         height: 400px;
+        width: 100%;
+    }
+
+    ul{
+        list-style-type: none;
+    }
+}
+
+
+
+@media (min-width: 481px) and (max-width: 1024px) {
+    img {
+        height: 500px;
+        width: 100%;
+    }
+
+        #main-content {
+            padding: 20px;
+            text-align: left;
+            justify-content: center;
+            font-size: medium;
+            height: 100%;
+            width: 100%;
+        }
+        
+
+}
+
+
+@media (min-width: 1024px) {
+    #main-content {
+        padding: 20px;
+        text-align: left;
+        justify-content: center;
+        font-size: medium;
+        height: 100%;
+        width: 100%;
+    }
+
+    img {
+        height: 500px;
         width: 100%;
     }
 }
