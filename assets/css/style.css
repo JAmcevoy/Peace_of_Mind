@@ -36,6 +36,11 @@ body {
 
 }
 
+#menu {
+    list-style-type: none;
+    text-decoration: none;
+}
+
 a:-webkit-any-link {
     color: #ffffff;
     cursor: pointer;
@@ -46,11 +51,6 @@ a:-webkit-any-link {
 
 .current {
     text-decoration: underline;
-}
-
-#menu {
-    list-style-type: none;
-    text-decoration: none;
 }
 
 main {
@@ -132,7 +132,10 @@ footer {
 }
 
 
-@media (max-width: 480px) {
+@media (min-width: 251px;) and (max-width: 480px) {
+    
+
+
     img {
         height: 200px;
         width: 100%;
