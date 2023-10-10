@@ -52,10 +52,17 @@ This site is for all types of people and will have different methods of meditati
 
 - __Factors That Can Influence Your Mental State__
 
-  - The Factors That Can Influence Your Mental State sections will provide the user with useful information on different factors that affect mental health.
+  - The Factors That Can Influence Your Mental State section will provide the user with useful information on different factors that affect mental health.
   - This section is valuable to the user as they will learn more about some of the things we might not know contribute to a bad mental state, encouraging them to practice meditation more often.
 
   ![Benefits of a Healthy Mind](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/Factors.JPG)
+
+  - __Techniques__
+
+  - The Techniques section will provide the user with different methods of meditation.
+  - This is the important section as it points out and explains the different ways someone could meditate, no matter the location or situation.
+
+  ![Techniques](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/techniques%20page.JPG)
 
 - __The Sign Up Page__
 
