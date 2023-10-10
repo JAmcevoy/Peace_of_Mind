@@ -21,17 +21,18 @@ This site is for all types of people and will have some different methods of med
 
 - __The landing page image__
 
-  - The landing includes a sections which discribes breifly the contents of each of the pages, Also, an image and videos of some people in meditation
+  - The landing includes a sections which discribes breifly the contents of each of the pages.
   - This section is purpose is to peak the interest of the user and encourage them to learn more and the other pages.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/landing%20page%20one.JPG)
 
-- __Club Ethos Section__
+- __Media Section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall.
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise.
+  - This section shows the user some examples of meditation.
+  - The user will see from the image an example of meditation in nature.
+  - The Video showcases that meditation is not just a solo activity and can be done in company.
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Media Section](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/landing%20page%20two.JPG)
 
 - __Meetup Times section__
 
