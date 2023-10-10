@@ -1,8 +1,10 @@
 # Peace Of Mind
 
-Peace of mind is a meditation site that hopes to help people better understand the ins and outs of meditation and why it is a beneficial practice.
+[Peace Of Mind](https://jamcevoy.github.io/Peace_of_Mind/index.html)
 
-This site is for all types of people and will have some different methods of meditation for every situation. Along with the option to be added to a email list, which sends out weekly with motivation quotes and little tipis and trick on getting the most out of meditation.
+Peace of Mind is a meditation site that hopes to help people better understand the ins and outs of meditation and why it is a beneficial practice.
+
+This site is for all types of people and will have different methods of meditation for every situation. Along with the option to be added to an email list, which would be sent out weekly with motivational quotes and little tips and tricks on getting the most out of meditation.
 
 ![Responsice Mockup](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/responsive%20all%20screens.JPG)
 
@@ -13,16 +15,16 @@ This site is for all types of people and will have some different methods of med
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the navigation bar includes links to the Welcoome to logo, Home page, Benefits, techniques and Sign Up page and is identical in each page to allow for easy navigation.
-  - I went for a more simplistic view of the option stacked and center at the top of each page, Showing the user option across all pages.
+  - Featured on all three pages, the navigation bar includes links to the Welcome to Peace Of Mind logo, Home page, Benefits, techniques, and Sign Up page and is identical on each page to allow for easy navigation.
+  - I went for a more simplistic view of the option stacked and centered at the top of each page, Showing the user option across all pages.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
 ![Nav Bar](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/nav%20bar.JPG)
 
-- __The landing page image__
+- __In The Following Pages__
 
-  - The landing includes a sections which discribes breifly the contents of each of the pages.
-  - This section is purpose is to peak the interest of the user and encourage them to learn more and the other pages.
+  - The landing includes a section that describes briefly the contents of each of the pages.
+  - This section's purpose is to pique the interest of the user and encourage them to learn more and the other pages.
 
 ![Landing Page](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/landing%20page%20one.JPG)
 
@@ -44,22 +46,22 @@ This site is for all types of people and will have some different methods of med
 - __Benefits of a Healthy Mind__
 
   - The Benefits of a Healthy Mind will provide the user with useful information on mental health.
-  - This section is valuable to the user as they will be more invested throuhg the list of benefits.
+  - This section is valuable to the user as they will be more invested through the list of benefits.
 
 ![Benefits of a Healthy Mind](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/benefits%20page.JPG)
 
 - __Factors That Can Influence Your Mental State__
 
-  - The Factors That Can Influence Your Mental State sections will provide the user with useful information on different factors that effect mental health.
-  - This section is valuable to the user as they will learn more on some of the things we might not know contributes to a bad mental state, encourging them to practice meditation more often.
+  - The Factors That Can Influence Your Mental State sections will provide the user with useful information on different factors that affect mental health.
+  - This section is valuable to the user as they will learn more about some of the things we might not know contribute to a bad mental state, encouraging them to practice meditation more often.
 
   ![Benefits of a Healthy Mind](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/Factors.JPG)
 
 - __The Sign Up Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address.
+  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able to specify if they would like to take part in road, trail, or both types of running. The user will be asked to submit their full name and email address.
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Sign Up]()
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
