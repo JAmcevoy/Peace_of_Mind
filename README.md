@@ -14,15 +14,15 @@ This site is for all types of people and will have some different methods of med
 - __Navigation Bar__
 
   - Featured on all three pages, the navigation bar includes links to the Welcoome to logo, Home page, Benefits, techniques and Sign Up page and is identical in each page to allow for easy navigation.
-  - I went for a more simplistic view of the option stacked and center at the top of each page
+  - I went for a more simplistic view of the option stacked and center at the top of each page, Showing the user option across all pages.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
 ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 
 - __The landing page image__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The landing includes a sections which discribes breifly the contents of each of the pages, Also, an image and videos of some people in meditation
+  - This section is purpose is to peak the interest of the user and encourage them to learn more and the other pages.
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
