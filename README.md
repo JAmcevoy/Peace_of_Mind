@@ -17,7 +17,7 @@ This site is for all types of people and will have some different methods of med
   - I went for a more simplistic view of the option stacked and center at the top of each page, Showing the user option across all pages.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/nav%20bar.JPG)
 
 - __The landing page image__
 
@@ -34,16 +34,9 @@ This site is for all types of people and will have some different methods of med
 
 ![Media Section](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/landing%20page%20two.JPG)
 
-- __Meetup Times section__
-
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers.
-  - This section will be updated as these times change to keep the user up to date.
-
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
-
 - __The Footer__
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
+  - The footer section includes links to the relevant social media sites for Peace Of Mind. The links will open to a new tab to allow easy navigation for the user.
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
