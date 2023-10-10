@@ -37,7 +37,7 @@ body {
     text-decoration: none;
 }
 
-a:-webkit-any-link {
+header a {
     color: #ffffff;
     cursor: pointer;
     text-decoration: none;
