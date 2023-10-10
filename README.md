@@ -46,12 +46,14 @@ This site is for all types of people and will have some different methods of med
   - The Benefits of a Healthy Mind will provide the user with useful information on mental health.
   - This section is valuable to the user as they will be more invested throuhg the list of benefits.
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Benefits of a Healthy Mind](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/benefits%20page.JPG)
 
 - __Factors That Can Influence Your Mental State__
 
   - The Factors That Can Influence Your Mental State sections will provide the user with useful information on different factors that effect mental health.
   - This section is valuable to the user as they will learn more on some of the things we might not know contributes to a bad mental state, encourging them to practice meditation more often.
+
+  ![Benefits of a Healthy Mind](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/Factors.JPG)
 
 - __The Sign Up Page__
 
