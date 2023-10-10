@@ -61,7 +61,7 @@ This site is for all types of people and will have different methods of meditati
 
   - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able to specify if they would like to take part in road, trail, or both types of running. The user will be asked to submit their full name and email address.
 
-![Sign Up]()
+![Sign Up](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/form.JPG)
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
