@@ -68,6 +68,10 @@ main {
     flex-direction: column;
 }
 
+#influence li {
+    margin: 1em 0;
+}
+
 
 #main-form {
     padding: 40px 50px 50px;
