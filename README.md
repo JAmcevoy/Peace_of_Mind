@@ -70,13 +70,10 @@ This site is for all types of people and will have different methods of meditati
 
 ![Sign Up](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/form.JPG)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 
-- Meditation audio section.
+- Meditation audio section would be a feature I think my website would need to be complete. Unfortunately, with the layout it looks like this would be a bigger task just to find a place to fit it. I would need to think more in depth about where it fits in and why. Then apply the change to my code.
 
 ## Testing
 
