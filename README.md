@@ -73,17 +73,25 @@ This site is for all types of people and will have different methods of meditati
 
 ### Features Left to Implement
 
-- Meditation audio section would be a feature I think my website would need to be complete. Unfortunately, with the layout it looks like this would be a bigger task just to find a place to fit it. I would need to think more in depth about where it fits in and why. Then apply the change to my code.
+- Meditation audio section would be a feature I think my website would need to be complete. Unfortunately, with the layout, it looks like this would be a bigger task just to find a place to fit it. I would need to think more in-depth about where it fits in and why. Then apply the change to my code.
 
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+- I tested that this page works in different browsers: Chrome, Firefox, Microsoft Edge, and Safari.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+![Chrome](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/)
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+![Firefox](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/)
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+![Microsoft Edge](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/)
+
+![Safari](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/)
+
+
+- I confirmed the site was responsive using the Chrome dev tools device toolbar.
+- I can confirm that the nav and social links are reliable and easy to understand, Also the social links open in a new tab and open apps on mobile phones.
+- I have confirmed the forms work, required entries in every field, the Radio button requires at least one to be selected, only accepts an email in the email field, and the submit button works.
+- I have asked some family and friends to try the websites on a PC, laptop, and mobile phone (Andriod and iPhone).
 
 ### Validator Testing
 
@@ -111,8 +119,7 @@ The live link can be found here - <https://jamcevoy.github.io/Peace_of_Mind/inde
 
 ### Content
 
-- All the text for this website were generated using a Chat AI (<https://chat.openai.com/share/fc542fe2-3da3-4c92-a6fb-e5d155dbdf2a>)
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+- All the text for this website was generated using a Chat AI (<https://chat.openai.com/share/fc542fe2-3da3-4c92-a6fb-e5d155dbdf2a>)
 - The icons in the footer and Techniques page were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
