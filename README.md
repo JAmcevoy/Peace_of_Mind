@@ -79,13 +79,13 @@ This site is for all types of people and will have different methods of meditati
 
 - I tested that this page works in different browsers: Chrome, Firefox, Microsoft Edge, and Safari.
 
-![Chrome](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/)
+![Chrome](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/chrome.JPG)
 
-![Firefox](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/)
+![Firefox](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/firefox.JPG)
 
-![Microsoft Edge](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/)
+![Microsoft Edge](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/Edge%20(1).JPG)
 
-![Safari](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/)
+![Safari](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/safari.jpg)
 
 
 - I confirmed the site was responsive using the Chrome dev tools device toolbar.
