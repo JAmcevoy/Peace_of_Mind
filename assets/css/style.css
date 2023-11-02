@@ -18,26 +18,30 @@ body {
 
 
 #heading {
-  padding: 10px 0;
-  margin: 0px;
-  color: #ffffff;
-  text-align: center;
-  border: 0;
-  background: url("../images/header.jpg") no-repeat center center/cover;
-  position: relative;
-  height: 140px;
-  background-color: rgb(53, 68, 153);
-  box-shadow: 0px 5px rgba(0, 0, 0, 0.4) ; 
-
+    padding: 70px 0;
+    margin: 0px;
+    color: #ffffff;
+    border: 0;
+    background: url("../images/header.jpg") no-repeat center center/cover;
+    height: 160px;
+    background-color: rgb(53, 68, 153);
+    box-shadow: 0px 5px rgba(0, 0, 0, 0.4);
 }
 
 
 #menu {
+    font-weight: bold;
+    padding: 20px 0 50px;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
     list-style-type: none;
     text-decoration: none;
+    background-color: rgba(60, 60, 60, .5);
 }
 
-header a {
+
+a:-webkit-any-link {
     color: #ffffff;
     cursor: pointer;
     text-decoration: none;
@@ -55,23 +59,63 @@ main {
 }
 
 #main-content {
-    padding: 30px;
+    padding: 20px;
     text-align: center;
     justify-content: center;
     font-size: small;
-    height: 100%;
+    height: 700px;
     width: 100%;
 }
 
-#media {
+#welcome {
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Sofia Sans';
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#intro {
     display: flex;
-    flex-direction: column;
+    padding: 30px;
+    align-items: center;
+    flex-direction: row-reverse;
 }
 
-#influence li {
-    margin: 1em 0;
+#you-will-find {
+    width: 60%;
+    justify-content: space-around;
+    align-content: center;
+    border: black solid 2px;
+    background-color: #0a6dd6;
+    padding: 15px;
+    margin: 10px;
+    margin-left: 5px;
+
 }
 
+#circle-img {
+    position: relative;
+    width: 200px;
+    height: 300px;
+    overflow: hidden;
+    border-radius: 50%;
+    border: black solid 2px;
+    flex: 2;
+}
+
+#circle-img img {
+    width: auto;
+    height: 100%;
+    margin-left: -50px;
+}
+
+video {
+    position: relative;
+    height: auto;
+    width: 100%;
+}
 
 #main-form {
     padding: 40px 50px 50px;
@@ -79,26 +123,27 @@ main {
     justify-content: center;
     font-size: small;
     width: 100%;
-  background-image: url(../images/stones.jpg);
-  background-size: cover;
-  
+    background-image: url(../images/stones.jpg);
+    background-size: cover;
+
 }
 
 #email-form {
-    padding: 10px 30px 0;
-    align-items: center;
+    padding: 10px 20px 10px;
     display: flex;
     flex-direction: column;
+    align-items: center;
     width: 200px;
-    height: 400px;
-  color: #fafafa;
-  font-size: small;
-  height: 100%;
+    height: auto;
+    color: #fafafa;
+    font-size: small;
+    background-color: rgba(60, 60, 60, .6);
 
 }
 
-h4, h5{
-  font-size: large;
+h4,
+h5 {
+    font-size: large;
 }
 
 #form-background {
@@ -112,12 +157,12 @@ h4, h5{
     background-color: rgb(53, 68, 153);
     padding: 10px;
     border: 3px solid #6f6767;
-  margin-top: 10px;
-  width: 150px;
+    margin-top: 10px;
+    width: 150px;
 }
 
 #submit:active {
-  background-color: black;
+    background-color: black;
 }
 
 #buttons {
@@ -128,7 +173,7 @@ h4, h5{
 footer {
     padding: 20px 40px 20px;
     background-color: rgb(0, 5, 147);
-  box-shadow: 0px -6px rgba(0, 0, 0, 0.6) ;
+    box-shadow: 0px -6px rgba(0, 0, 0, 0.6);
 }
 
 #social-icons {
@@ -146,14 +191,43 @@ footer {
 }
 
 
-@media (min-width: 251px) and (max-width: 480px) {
-    
+@media (min-width: 251px) and (max-width: 600px) {
 
+    #intro {
+        display: block;
+        align-items: center;
 
-    img {
-        height: 200px;
-        width: 100%;
     }
+
+    #you-will-find {
+        width: 100%;
+        position: relative;
+        text-align: center;
+        border: black solid 2px;
+        background-color: #0a6dd6;
+        padding: 15px;
+        margin: 10px;
+
+    }
+
+    #circle-img {
+        position: relative;
+        left: 10px;
+        align-self: center;
+        width: 100%;
+        height: auto;
+        border-radius: 0;
+        overflow: hidden;
+        border: black solid 2px;
+    }
+
+    #circle-img img {
+        width: 100%;
+        height: auto;
+        margin-left: 0;
+
+    }
+
 
     ul {
         list-style-type: none;
@@ -162,22 +236,28 @@ footer {
 
 
 
-@media (min-width: 320px) and (max-width: 1024px) {
+@media (min-width: 600px) and (max-width: 1024px) {
+
+    #circle-img {
+        position: relative;
+        width: 300px;
+        height: 300px;
+        overflow: hidden;
+        border: black solid 2px;
+    }
+
+    #cirle-img img {
+        margin-right: 50px;
+    }
 
     #main-content {
+        padding: 20px;
         text-align: left;
         justify-content: center;
         font-size: medium;
         height: 100%;
         width: 100%;
     }
-
-    img {
-        height: 500px;
-        width: 100%;
-    }
-
-  
 
     #email-form {
         padding: 10px 30px 0;
@@ -185,47 +265,55 @@ footer {
         display: flex;
         flex-direction: column;
         width: 200px;
-        height: 600px;
+        height: 100%;
 
     }
-  #main-form {
-    padding: 100px;
-  }
+
+    #main-form {
+        padding: 100px;
+    }
 
 }
 
 @media (min-width: 1024px) {
-    #main-content {
-        text-align: left;
-        justify-content: center;
-        font-size: medium;
-        height: 100%;
-        width: 100%;
+
+    #you-will-find {
+        height: 400px;
     }
 
-    img {
+    #circle-img {
+        position: relative;
+        width: 500px;
         height: 500px;
-        width: 100%;
+
+        #main-content {
+            padding: 20px;
+            text-align: left;
+            justify-content: center;
+            font-size: medium;
+            height: 100%;
+            width: 100%;
+        }
+
+
+        #main-form {
+            height: 900px;
+        }
+
+        #email-form {
+            width: 400px;
+            height: 900px;
+            font-size: large;
+            padding: 150px;
+        }
+
+
     }
 
-  #main-form{
-    height: 900px;
-  }
+    @media (min-width: 768px) and (min-height: 1024px) {
+        #main-form {
+            height: 900px;
+            padding: 200px;
 
-  #email-form {
-        width: 400px;
-    height: 900px;
-    font-size: large;
-    padding: 150px;
-  }
-
-
-}
-
-@media (min-width: 768px) and (min-height: 1024px) {
-  #main-form {
-    height: 900px;
-    padding-top: 80px;
-
-  }
-}
+        }
+    }
