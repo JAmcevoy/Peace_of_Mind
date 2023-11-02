@@ -34,10 +34,9 @@ This site is for all types of people and will have different methods of meditati
 - __Media Section__
 
   - This section shows the user some examples of meditation.
-  - The user will see from the image an example of meditation in nature.
   - The Video showcases that meditation is not just a solo activity and can be done in company.
 
-![Media Section](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/landing%20page%20two.JPG)
+![Media Section](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/video.JPG)
 
 - __The Footer__
 
