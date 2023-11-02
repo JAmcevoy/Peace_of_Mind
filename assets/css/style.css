@@ -31,7 +31,7 @@ body {
 
 
 #menu {
-    font-weight: bold;
+    font-weight: 900;
     padding: 20px 0 50px;
     text-align: center;
     display: flex;
@@ -41,11 +41,11 @@ body {
     background-color: rgba(60, 60, 60, .5);
 }
 
-a:-webkit-any-link {
+a {
     color: #ffffff;
     cursor: pointer;
     text-decoration: none;
-    align-items: baseline;
+    font-size: x-large;
 }
 
 
@@ -249,12 +249,12 @@ footer {
     }
 
     .align-right {
-        padding: 20px;
+        padding: 15px;
         margin-bottom: 5px;
     }
 
     .align-left {
-        padding: 20px;
+        padding: 15px;
         margin-bottom: 5px;
     }
 
@@ -262,6 +262,15 @@ footer {
 
     ul {
         list-style-type: none;
+    }
+
+    #menu {
+        flex-direction: column;
+        font-size: medium;
+    }
+
+    #heading {
+        padding-top: 0;
     }
 }
 
