@@ -7,6 +7,9 @@
 
 }
 
+.hidden {
+    display: none;
+}
 
 body {
     display: flex;
@@ -339,7 +342,7 @@ footer {
 @media (min-width: 1024px) {
 
     #you-will-find {
-        height: 400px;
+        height: 450px;
     }
 
     #circle-img {
