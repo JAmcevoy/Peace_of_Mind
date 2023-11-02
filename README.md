@@ -20,6 +20,7 @@ This site is for all types of people and will have different methods of meditati
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
 ![Nav Bar](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/nav%20bar.JPG)
+![Nav Bar Responsive](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/nav-small.JPG)
 
 - __In The Following Pages__
 
