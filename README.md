@@ -63,7 +63,7 @@ This site is for all types of people and will have different methods of meditati
   - This is the important section as it points out and explains the different ways someone could meditate, no matter the location or situation.
 
   ![Techniques](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/techniques%20page.JPG)
-
+  ![Techniques](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/techniques%20page-small.JPG)
 - __The Sign Up Page__
 
   - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able to specify if they would like to take part in road, trail, or both types of running. The user will be asked to submit their full name and email address.
