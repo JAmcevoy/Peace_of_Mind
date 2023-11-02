@@ -283,37 +283,44 @@ footer {
 
     #circle-img {
         position: relative;
-        width: 500px;
+        width: 400px;
         height: 500px;
-
-        #main-content {
-            padding: 20px;
-            text-align: left;
-            justify-content: center;
-            font-size: medium;
-            height: 100%;
-            width: 100%;
-        }
-
-
-        #main-form {
-            height: 900px;
-        }
-
-        #email-form {
-            width: 400px;
-            height: 900px;
-            font-size: large;
-            padding: 150px;
-        }
-
-
+        background-color: rgb(92, 179, 255);
     }
 
-    @media (min-width: 768px) and (min-height: 1024px) {
-        #main-form {
-            height: 900px;
-            padding: 200px;
-
-        }
+    #cirle-img img {
+        margin-right: -50px;
     }
+
+    #main-content {
+        padding: 20px;
+        text-align: left;
+        justify-content: center;
+        font-size: medium;
+        height: 100%;
+        width: 100%;
+    }
+
+
+    #main-form {
+        height: 900px;
+        padding: 150px 50px;
+    }
+
+    #email-form {
+        width: 400px;
+        height: 600px;
+        font-size: large;
+        padding: 50px;
+    }
+
+
+}
+
+@media (min-width: 768px) and (min-height: 1024px) {
+    #main-form {
+        height: 900px;
+        padding: 200px;
+
+    }
+}
