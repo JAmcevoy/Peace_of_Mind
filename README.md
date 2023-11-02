@@ -108,6 +108,10 @@ This site is for all types of people and will have different methods of meditati
 - Another problem I had with the form was the background image made any color made the text hard to read. I fixed this by laying a transparent background over the image. Light enough to see the image behind but dark enough the see the text.
 - I had trouble with the benefits and techniques page when it came to containing the information on the mobile screen on my phone (iPhone 11) the information was pushed below the footer and a lot of information was missing. I looked around extensively online for a solution and found the overflow property specifically the scroll property, I fixed this to the main content so now if any of the information that overflowed can now be hidden if it does not fit the page but can be seen.
 
+### Bugs I did not get to fix
+
+-The form as I said above was my biggest concern, I could never get the size quite correct so there is a possibility the background image might lift on a certain screen size. I have checked this multiple times but I figured it was worth a mention in this section. Also, with the scroll solution. It is still very patchy on a mobile phone the scroll bar is bearly noticeable, I didn't have the knowledge of how to correct this but I feel it is something worth visiting again.
+
 ## Deployment
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
