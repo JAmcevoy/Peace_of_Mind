@@ -40,11 +40,11 @@ body {
     background-color: rgba(60, 60, 60, .5);
 }
 
-a {
+header a {
     color: #ffffff;
     cursor: pointer;
     text-decoration: none;
-    font-size: x-large;
+    align-items: baseline;
 }
 
 
@@ -149,21 +149,22 @@ video {
     justify-content: center;
     font-size: small;
     width: 100%;
-    background-image: url(../images/stones.jpg);
-    background-size: cover;
-
+    height: 900px;
+  background-image: url(../images/stones.jpg);
+  background-size: cover;
+  
 }
 
 #email-form {
     padding: 10px 20px 10px;
     display: flex;
     flex-direction: column;
-    align-items: center;
+  align-items: center;
     width: 200px;
-    height: auto;
-    color: #fafafa;
-    font-size: small;
-    background-color: rgba(60, 60, 60, .6);
+    height: auto;  
+  color: #fafafa;
+  font-size: small;
+  background-color: rgba(60, 60, 60, .6);
 
 }
 
@@ -312,19 +313,19 @@ footer {
         padding: 10px 5px 10px;
     }
 
-    #email-form {
-        padding: 10px 30px 0;
-        align-items: center;
-        display: flex;
-        flex-direction: column;
-        width: 200px;
-        height: 100%;
+  #email-form {
+      padding: 10px 30px 0;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      width: 200px;
+      height: 100%;
 
-    }
+  }
 
-    #main-form {
-        padding: 50px;
-    }
+  #main-form {
+      padding: 100px;
+  }
 
 }
 
@@ -375,13 +376,24 @@ footer {
         font-size: xx-large;
     }
 
+      #main-form{
+    height: 900px;
+  }
+
+  #email-form {
+        width: 400px;
+    height: 900px;
+    font-size: large;
+    padding: 150px;
+  }
+
 
 }
 
 @media (min-width: 768px) and (min-height: 1024px) {
     #main-form {
-        height: 1000px;
-
+        height: 900px;
+        padding: 200px;
 
     }
 }
