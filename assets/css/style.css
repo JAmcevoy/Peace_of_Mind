@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Sofia+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Open+Sans:wght@300&family=Oswald:wght@200&family=Sofia+Sans:wght@300&display=swap');
 
 * {
     margin: 0;
@@ -12,6 +12,7 @@ body {
     display: flex;
     flex-direction: column;
     font-family: 'Open Sans', sans-serif;
+    font-size: medium;
     min-height: 100vh;
 
 }
@@ -40,7 +41,6 @@ body {
     background-color: rgba(60, 60, 60, .5);
 }
 
-
 a:-webkit-any-link {
     color: #ffffff;
     cursor: pointer;
@@ -58,7 +58,19 @@ main {
     background-color: #c9e9f6;
 }
 
+h3,
+h4,
+h5 {
+    font-family: lato, sans-serif;
+    font-size: large;
+    font-style: italic;
+    font-weight: 900;
+    padding-bottom: 8px;
+}
+
 #main-content {
+    font-family: 'Oswald', sans-serif;
+    font-size: medium;
     padding: 20px;
     text-align: center;
     justify-content: center;
@@ -70,8 +82,7 @@ main {
 #welcome {
     text-align: center;
     font-size: xx-large;
-    font-family: 'Sofia Sans';
-    text-align: center;
+    font-family: 'Sofia Sans', sans-serif;
     padding-top: 20px;
     padding-bottom: 20px;
 }
@@ -111,11 +122,25 @@ main {
     margin-left: -50px;
 }
 
+
 video {
     position: relative;
     height: auto;
     width: 100%;
 }
+
+.align-right {
+    background: #007a8a;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.align-left {
+    background-color: #9cea4d;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
 
 #main-form {
     padding: 40px 50px 50px;
@@ -139,11 +164,6 @@ video {
     font-size: small;
     background-color: rgba(60, 60, 60, .6);
 
-}
-
-h4,
-h5 {
-    font-size: large;
 }
 
 #form-background {
@@ -228,6 +248,17 @@ footer {
 
     }
 
+    .align-right {
+        padding: 20px;
+        margin-bottom: 5px;
+    }
+
+    .align-left {
+        padding: 20px;
+        margin-bottom: 5px;
+    }
+
+
 
     ul {
         list-style-type: none;
@@ -254,9 +285,19 @@ footer {
         padding: 20px;
         text-align: left;
         justify-content: center;
-        font-size: medium;
+        font-size: 1em;
         height: 100%;
         width: 100%;
+    }
+
+    .align-right {
+        text-align: right;
+        padding: 10px 5px 10px;
+    }
+
+    .align-left {
+        text-align: left;
+        padding: 10px 5px 10px;
     }
 
     #email-form {
@@ -273,6 +314,10 @@ footer {
         padding: 100px;
     }
 
+    h3 {
+        font-size: 2em;
+    }
+
 }
 
 @media (min-width: 1024px) {
@@ -283,35 +328,43 @@ footer {
 
     #circle-img {
         position: relative;
-        width: 400px;
+        width: 500px;
         height: 500px;
-        background-color: rgb(92, 179, 255);
-    }
-
-    #cirle-img img {
-        margin-right: -50px;
     }
 
     #main-content {
-        padding: 20px;
+        padding: 40px;
         text-align: left;
         justify-content: center;
-        font-size: medium;
+        font-size: x-large;
         height: 100%;
         width: 100%;
+    }
+
+    .align-right {
+        text-align: right;
+        padding: 10px 5px 10px;
+    }
+
+    .align-left {
+        text-align: left;
+        padding: 10px 5px 10px;
     }
 
 
     #main-form {
         height: 900px;
-        padding: 200px 50px;
     }
 
     #email-form {
         width: 400px;
-        height: 600px;
+        height: 900px;
         font-size: large;
-        padding: 50px;
+        padding: 150px;
+    }
+
+    h3 {
+        font-size: xx-large;
     }
 
 
