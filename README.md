@@ -26,7 +26,9 @@ This site is for all types of people and will have different methods of meditati
   - The landing includes a section that describes briefly the contents of each of the pages.
   - This section's purpose is to pique the interest of the user and encourage them to learn more and the other pages.
 
-![Landing Page](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/landing%20page%20one.JPG)
+![Welcome Page](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/landing%20page%20one.JPG)
+
+![Welcome Section](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/landing%20page%20two.JPG)
 
 - __Media Section__
 
