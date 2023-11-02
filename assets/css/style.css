@@ -16,7 +16,10 @@ body {
 
 }
 
-
+.hidden {
+display: none;
+}
+    
 #heading {
     padding: 70px 0;
     margin: 0px;
