@@ -100,9 +100,13 @@ This site is for all types of people and will have different methods of meditati
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
-### Unfixed Bugs
+### Bugs I Faced Along The Way
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
+- One of the biggest issues I faced was with the video, because of the quality of the original the page would stall, and sometimes the video wouldn't even load. I found a converter online that lowered the quality and size of the video, but not so much as to make the video blurry or unseeable.
+- Another issue I had was with the image on the welcome page, Originally the picture sat on top of the video on the homepage. When the screen was pulled to a bigger screen the picture stretched and was noticeably distorted. I got the idea to put the picture into a circle on bigger screens and with the use of Flexbox I placed the picture next to the text letting the information breathe a little but also containing the picture size.
+- The form was the most difficult challenge when in certain screen sizes the fields jumped all over the screen and the background image pulled up leaving the background color from the main body showing, Just made the page look messy. Using Media Queries and the dev tools in Chrome I isolated the sizes and required sizes needed to fit everything how I wanted.
+- Another problem I had with the form was the background image made any color made the text hard to read. I fixed this by laying a transparent background over the image. Light enough to see the image behind but dark enough the see the text.
+- I had trouble with the benefits and techniques page when it came to containing the information on the mobile screen on my phone (iPhone 11) the information was pushed below the footer and a lot of information was missing. I looked around extensively online for a solution and found the overflow property specifically the scroll property, I fixed this to the main content so now if any of the information that overflowed can now be hidden if it does not fit the page but can be seen.
 
 ## Deployment
 
@@ -124,5 +128,5 @@ The live link can be found here - <https://jamcevoy.github.io/Peace_of_Mind/inde
 
 ### Media
 
-- The photos used on the header, home and sign up page are from <https://www.pexels.com/>
-- The video used for the home page were taken from <https://www.pexels.com/>
+- The photos used on the header, home, and sign-up page are from <https://www.pexels.com/>
+- The video used for the home page was taken from <https://www.pexels.com/>
