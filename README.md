@@ -131,6 +131,8 @@ The live link can be found here - <https://jamcevoy.github.io/Peace_of_Mind/inde
 
 - All the text for this website was generated using a Chat AI (<https://chat.openai.com/share/fc542fe2-3da3-4c92-a6fb-e5d155dbdf2a>)
 - The icons in the footer and Techniques page were taken from [Font Awesome](https://fontawesome.com/)
+- How to create and use circle images using CSS [Webfx](https://www.webfx.com/blog/web-design/circular-images-css/#:~:text=To%20render%20a%20circle%2C%20the,s%20overflow%20property%20to%20hidden%20.)
+- Understanding Media Queries [Stacloverflow](https://stackoverflow.com/questions/6370690/media-queries-how-to-target-desktop-tablet-and-mobile)
 
 ### Media
 
