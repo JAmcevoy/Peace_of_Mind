@@ -67,9 +67,6 @@ h5 {
     padding-bottom: 8px;
 }
 
-p {
-    font-size: large;
-}
 
 #main-content {
     font-family: 'Oswald', sans-serif;
@@ -214,7 +211,7 @@ footer {
 }
 
 
-@media (min-width: 251px) and (max-width: 600px) {
+@media (min-width: 251px) and (max-width: 650px) {
 
     #intro {
         display: block;
@@ -252,13 +249,13 @@ footer {
     }
 
     .align-right {
-        padding: 15px;
-        margin-bottom: 5px;
+        padding: 5px;
+        margin-bottom: 0;
     }
 
     .align-left {
-        padding: 15px;
-        margin-bottom: 5px;
+        padding: 5px;
+        margin-bottom: 0;
     }
 
 
@@ -280,13 +277,16 @@ footer {
     #main-content {
         font-family: 'Lato', sans-serif;
         font-weight: 700;
+        font-size: medium;
     }
+
+    
 
 }
 
 
 
-@media (min-width: 600px) and (max-width: 1024px) {
+@media (min-width: 650px) and (max-width: 1024px) {
 
     #circle-img {
         position: relative;
@@ -294,10 +294,6 @@ footer {
         height: 300px;
         overflow: hidden;
         border: black solid 2px;
-    }
-
-    #cirle-img img {
-        margin-right: 50px;
     }
 
     #main-content {
@@ -330,10 +326,6 @@ footer {
 
     #main-form {
         padding: 100px;
-    }
-
-    h3 {
-        font-size: 2em;
     }
 
 }
