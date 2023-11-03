@@ -39,12 +39,13 @@ This site is for all types of people and will have different methods of meditati
 
 ![Welcome Page Responsive](readme/images/landing-page-two.JPG)
 
-- __Media Section__
+- __Video Section__
 
   - This section shows the user some examples of meditation.
   - The Video showcases that meditation is not just a solo activity and can be done in company.
+  - The video does not play the user hit play.
 
-![Media Section](readme/images/video.JPG)
+![Video Section](readme/images/video.JPG)
 
 - __The Footer__
 
