@@ -62,7 +62,7 @@ This site is for all types of people and will have different methods of meditati
   - I left the bullet point on a larger screen so the information seems more organized and together.
   - On Smaller screens, the content gets rid of the bullet points and centers to make the most of screens like mobile phones and tablets
 
-![Benefits of a Healthy Mind](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/readme/images/footer.JPG)
+![Benefits of a Healthy Mind](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/readme/images/benefits-page.JPG)
 
 - __Factors That Can Influence Your Mental State__
 
