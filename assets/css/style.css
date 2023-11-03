@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Open+Sans:wght@300&family=Oswald:wght@200&family=Sofia+Sans:wght@300&display=swap');
 
+/* default */
+
 * {
     margin: 0;
     padding: 0;
@@ -10,13 +12,7 @@
     display: none;
 }
 
-body {
-    display: flex;
-    flex-direction: column;
-    font-size: medium;
-    min-height: 100vh;
-}
-
+/* heading */
 
 #heading {
     padding: 70px 0;
@@ -29,6 +25,7 @@ body {
     background: url("../images/header.jpg") no-repeat center center/cover;
 }
 
+/* nav menu */
 
 #menu {
     padding: 20px 0 50px;
@@ -52,6 +49,15 @@ header a {
 
 .current {
     text-decoration: underline;
+}
+
+/* Main body */
+
+body {
+    display: flex;
+    flex-direction: column;
+    font-size: medium;
+    min-height: 100vh;
 }
 
 main {
@@ -82,6 +88,8 @@ h5 {
     overflow: scroll;
 }
 
+/* Landing page */
+
 #welcome {
     text-align: center;
     font-size: xx-large;
@@ -110,6 +118,8 @@ h5 {
     font-family: 'Oswald', sans-serif;
 }
 
+/* circle image and video */
+
 #circle-img {
     position: relative;
     width: 300px;
@@ -134,6 +144,18 @@ video {
     background-color: black;
 }
 
+/* benefits page */
+
+#influence {
+    padding-left: 30px;
+}
+
+#benefits {
+    padding-left: 30px;
+}
+
+/* color and alignment of content benefits and techniques */
+
 .align-right {
     background: #007a8a;
     padding: 20px;
@@ -146,14 +168,7 @@ video {
     margin-bottom: 20px;
 }
 
-#influence {
-    padding-left: 30px;
-}
-
-#benefits {
-    padding-left: 30px;
-}
-
+/* sign up page */
 
 #main-form {
     padding: 0;
@@ -187,6 +202,8 @@ video {
     background-color: rgba(60, 60, 60, .6);
 }
 
+/* submit button */
+
 #submit {
     color: #ffffff;
     font-weight: 900;
@@ -208,6 +225,8 @@ video {
     justify-content: space-around;
 }
 
+/* footer and social links */
+
 footer {
     padding: 20px 40px 20px;
     background-color: rgb(0, 5, 147);
@@ -228,7 +247,9 @@ footer {
     color: #ffffff;
 }
 
+/* Media Queries */
 
+/* mobile phone and tablets */
 @media (min-width: 200px) and (max-width: 650px) {
 
     #heading {
@@ -299,7 +320,7 @@ footer {
 }
 
 
-
+/* large tablets, laptops and pc */
 @media (min-width: 650px) and (max-width: 1024px) {
 
     #circle-img {
@@ -345,6 +366,7 @@ footer {
 
 }
 
+/* screens larger than 1024px */
 @media (min-width: 1024px) {
 
     #you-will-find {
@@ -406,6 +428,7 @@ footer {
 
 }
 
+/* screens with height exciding 1024px */
 @media (min-width: 768px) and (min-height: 1024px) {
     #main-form {
         height: 900px;
