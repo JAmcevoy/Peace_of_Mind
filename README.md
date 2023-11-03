@@ -130,7 +130,7 @@ This site is for all types of people and will have different methods of meditati
 
 ### Bugs I did not get to fix
 
-- The form as I said above was my biggest concern, I could never get the size quite correct so there is a possibility the background image might lift on a certain screen size. I have checked this multiple times but I figured it was worth a mention in this section. Also, with the scroll solution. It is still very patchy on a mobile phone the scroll bar is bearly noticeable, I didn't have the knowledge of how to correct this but I feel it is something worth visiting again. The video on mobile screens is also worrying the video works but the preview or thumbnail of the video doesn't show until you press the play button which causes the video the open in full screen, I don't know if this issue is specific to IOS or all mobile devices. 
+- The form as I said above was my biggest concern, I could never get the size quite correct so there is a possibility the background image might lift on a certain screen size. I have checked this multiple times but I figured it was worth a mention in this section. Also, with the scroll solution. It is still very patchy on a mobile phone the scroll bar is bearly noticeable, I didn't have the knowledge of how to correct this but I feel it is something worth visiting again. The video on mobile screens is also worrying the video works but the preview or thumbnail of the video doesn't show until you press the play button which causes the video the open in full screen, it seems to just be an IOS safari issue. 
 - Most of these issues were due to lack of knowledge and time, if I had more time to research and collaborate with this, I feel as if these issues could be corrected.
 
 ## Deployment
