@@ -110,7 +110,6 @@ h5 {
     margin-left: 5px;
     font-size: x-large;
     font-family: 'Oswald', sans-serif;
-
 }
 
 #circle-img {
@@ -166,19 +165,19 @@ video {
     height: 900px;
     background-image: url(../images/stones.jpg);
     background-size: cover;
-  
+
 }
 
 #email-form {
     padding: 200px;
     display: flex;
     flex-direction: column;
-  align-items: center;
+    align-items: center;
     width: 200px;
-    height: auto;  
-  color: #fafafa;
-  font-size: small;
-  
+    height: auto;
+    color: #fafafa;
+    font-size: small;
+
 
 }
 
@@ -234,9 +233,9 @@ footer {
 @media (min-width: 200px) and (max-width: 650px) {
 
     #heading {
-        
-                padding-top: 0;
-            }
+
+        padding-top: 0;
+    }
 
     #intro {
         display: block;
@@ -296,7 +295,7 @@ footer {
         padding-left: 25px;
     }
 
-    
+
 
 }
 
@@ -310,6 +309,10 @@ footer {
         height: 300px;
         overflow: hidden;
         border: black solid 2px;
+    }
+
+    #circle-img img {
+        margin-left: -20%;
     }
 
     #main-content {
@@ -330,15 +333,17 @@ footer {
         padding: 10px 5px 10px;
     }
 
-  #email-form {
-     
-      align-items: center;
-      display: flex;
-      flex-direction: column;
-      width: 200px;
-      height: 100%;
+    #email-form {
 
-  }
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        width: 200px;
+        height: 100%;
+
+    }
+
+    #
 
 
 }
@@ -390,16 +395,16 @@ footer {
         font-size: xx-large;
     }
 
-      #main-form{
-    height: 900px;
-  }
+    #main-form {
+        height: 900px;
+    }
 
-  #email-form {
+    #email-form {
         width: 400px;
-    height: 900px;
-    font-size: large;
-    padding: 150px;
-  }
+        height: 900px;
+        font-size: large;
+        padding: 150px;
+    }
 
 
 }
