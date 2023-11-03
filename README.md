@@ -11,7 +11,7 @@ This site is for all types of people and will have different methods of meditati
 ## User Needs
 
 - I would want the website to be accessible from different devices (Phone, Laptop, PC, Tablet).
-- It would need to be responsive the all screens, ensuring the information is readable, understandable, and fun.
+- It would need to be responsive to all screens, ensuring the information is readable and understandable.
 - As a user, I would want to see relaxing and smooth colors, with great use of imagery to make the experience more realistic and easier to envision examples like People meditating in different environments, videos with people in the zone of meditation, and places in nature that enduce relaxing thoughts.
 
 ## Features
@@ -21,8 +21,8 @@ This site is for all types of people and will have different methods of meditati
 
 - __Navigation Bar__
 
-  - Featured on all four pages, the navigation bar includes links to the Welcome to Peace Of Mind logo, Home page, Benefits, techniques, and Sign Up page and is identical on each page to allow for easy navigation.
-  - I went for a more simplistic view of the option stacked on smaller screens, Showing the user option across all pages. But keeping the menu neat to the head of each page.
+  - Featured on all four pages, the navigation bar includes links to the Home page, Benefits, techniques, and Sign Up page and is identical on each page to allow for easy navigation.
+  - I went for a more simplistic view of the option of stacked for smaller screens, Showing the user option across all pages. But keeping the menu neat to the head of each page.
   - For larger screens like laptops and PCs, I set the nav menu out in a row evenly spaced with heavy font and larger font sizes. This utilizes the space of the screen but gives a better display for users who are visually impaired. 
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
@@ -59,7 +59,7 @@ This site is for all types of people and will have different methods of meditati
   - The Benefits of a Healthy Mind will provide the user with useful information on mental health.
   - This section is valuable to the user as they will be more invested through the list of benefits.
   - I left the bullet point on a larger screen so the information seems more organized and together.
-  - On Smaller screens, the content loses the bullet points and centers to make the most of screens like mobile phones and tablets
+  - On Smaller screens, the content gets rid of the bullet points and centers to make the most of screens like mobile phones and tablets
 
 ![Benefits of a Healthy Mind](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/benefits%20page.JPG)
 
@@ -86,7 +86,6 @@ This site is for all types of people and will have different methods of meditati
   - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able to specify if they would like to take part in road, trail, or both types of running. The user will be asked to submit their full name and email address.
   - When selected the submit button background goes black letting the user know they have selected it successfully.
   - I limited the ages field to a max of 99 and a minimum of 1, this will prevent any numbers over 3 digits from being submitted.
-  - I tested all other field validation and I could not submit until all was filled out including the radio buttons. I done this using the required property
 
 ![Sign Up](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/form.JPG)
 
@@ -130,7 +129,7 @@ This site is for all types of people and will have different methods of meditati
 
 ### Bugs I did not get to fix
 
-- The form as I said above was my biggest concern, I could never get the size quite correct so there is a possibility the background image might lift on a certain screen size. I have checked this multiple times but I figured it was worth a mention in this section. Also, with the scroll solution. It is still very patchy on a mobile phone the scroll bar is bearly noticeable, I didn't have the knowledge of how to correct this but I feel it is something worth visiting again. The video on mobile screens is also worrying the video works but the preview or thumbnail of the video doesn't show until you press the play button which causes the video the open in full screen, it seems to just be an IOS safari issue. 
+- The form as I said above was my biggest concern, I could never get the size quite correct so there is a possibility the background image might lift on a certain screen size. I have checked this multiple times but I figured it was worth a mention in this section. Also, with the scroll solution. It is still very patchy on a mobile phone the scroll bar is bearly noticeable, I didn't have the knowledge of how to correct this but I feel it is something worth visiting again. The video on mobile screens is also worrying the video works but the preview or thumbnail of the video doesn't show until you press the play button which causes the video the open in full screen, it seems to just be an IOS Safari issue. 
 - Most of these issues were due to lack of knowledge and time, if I had more time to research and collaborate with this, I feel as if these issues could be corrected.
 
 ## Deployment
@@ -152,9 +151,10 @@ The live link can be found here - <https://jamcevoy.github.io/Peace_of_Mind/inde
 - The icons in the footer and Techniques page were taken from [Font Awesome](https://fontawesome.com/)
 - How to create and use circle images using CSS [Webfx](https://www.webfx.com/blog/web-design/circular-images-css/#:~:text=To%20render%20a%20circle%2C%20the,s%20overflow%20property%20to%20hidden%20.)
 - Understanding Media Queries [Stacloverflow](https://stackoverflow.com/questions/6370690/media-queries-how-to-target-desktop-tablet-and-mobile)
-- How to make the footer [love running](https://github.com/JAmcevoy/LoveRunning_/blob/main/assets/css/style.css)
+- How to make the footer, Nav, and body layout were inspired by [love running](https://github.com/JAmcevoy/LoveRunning_/blob/main/assets/css/style.css)
 
 ### Media
 
 - The photos used on the header, home, and sign-up page are from <https://www.pexels.com/>
 - The video used for the home page was taken from <https://www.pexels.com/>
+- Symbols and logos all came from [Font Awesome](https://fontawesome.com/)
