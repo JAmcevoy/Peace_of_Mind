@@ -8,6 +8,12 @@ This site is for all types of people and will have different methods of meditati
 
 ![Responsice Mockup](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/responsive%20all%20screens.JPG)
 
+## User Needs
+
+- I would want the website to be accessible from different devices (Phone, Laptop, PC, Tablet).
+- It would need to be responsive the all screens, ensuring the information is readable, understandable, and fun.
+- As a user, I would want to see relaxing and smooth colors, with great use of imagery to make the experience more realistic and easier to envision examples like People meditating in different environments, videos with people in the zone of meditation, and places in nature that enduce relaxing thoughts.
+
 ## Features
 
 
@@ -15,8 +21,9 @@ This site is for all types of people and will have different methods of meditati
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the navigation bar includes links to the Welcome to Peace Of Mind logo, Home page, Benefits, techniques, and Sign Up page and is identical on each page to allow for easy navigation.
-  - I went for a more simplistic view of the option stacked and centered at the top of each page, Showing the user option across all pages.
+  - Featured on all four pages, the navigation bar includes links to the Welcome to Peace Of Mind logo, Home page, Benefits, techniques, and Sign Up page and is identical on each page to allow for easy navigation.
+  - I went for a more simplistic view of the option stacked on smaller screens, Showing the user option across all pages. But keeping the menu neat to the head of each page.
+  - For larger screens like laptops and PCs, I set the nav menu out in a row evenly spaced with heavy font and larger font sizes. This utilizes the space of the screen but gives a better display for users who are visually impaired. 
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
 ![Nav Bar](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/nav%20bar.JPG)
@@ -26,6 +33,8 @@ This site is for all types of people and will have different methods of meditati
 
   - The landing includes a section that describes briefly the contents of each of the pages.
   - This section's purpose is to pique the interest of the user and encourage them to learn more and the other pages.
+  - Using Flexbox, I made the photos and information sit next to each other on larger screens.
+  - I put the photo in a circle to give the section a playful but organized look. For smaller screens, this image drops below the text section and goes back to square this is to make the page more linear on mobile and tablet devices.
 
 ![Welcome Page](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/landing%20page%20one.JPG)
 
@@ -49,6 +58,8 @@ This site is for all types of people and will have different methods of meditati
 
   - The Benefits of a Healthy Mind will provide the user with useful information on mental health.
   - This section is valuable to the user as they will be more invested through the list of benefits.
+  - I left the bullet point on a larger screen so the information seems more organized and together.
+  - On Smaller screens, the content loses the bullet points and centers to make the most of screens like mobile phones and tablets
 
 ![Benefits of a Healthy Mind](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/benefits%20page.JPG)
 
@@ -56,6 +67,8 @@ This site is for all types of people and will have different methods of meditati
 
   - The Factors That Can Influence Your Mental State section will provide the user with useful information on different factors that affect mental health.
   - This section is valuable to the user as they will learn more about some of the things we might not know contribute to a bad mental state, encouraging them to practice meditation more often.
+  - I moved this information to the right side of the page to separate the information letting the user know it is different information.
+  - With a smaller screen, the gap between the two divs closes to make the best of the space but the color still sets apart the information.
  
   ![Benefits of a Healthy Mind](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/benefits_page-small.JPG)
 
@@ -63,12 +76,17 @@ This site is for all types of people and will have different methods of meditati
 
   - The Techniques section will provide the user with different methods of meditation.
   - This is the important section as it points out and explains the different ways someone could meditate, no matter the location or situation.
+  - Like the benefits page I used color and alignment to set apart the information, while on this page I split the rows opposite each row. I felt this would make the page more appealing encouraging people to read the information.
+  - I Added icons to each type with symbols I believed closely represented the type of meditation, This will allow users who might not be the best readers to understand what each type consists of. Making the page fun but also a bit more accessible. 
 
   ![Techniques](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/techniques%20page.JPG)
   ![Techniques](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/techniques%20page-small.JPG)
 - __The Sign Up Page__
 
   - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able to specify if they would like to take part in road, trail, or both types of running. The user will be asked to submit their full name and email address.
+  - When selected the submit button background goes black letting the user know they have selected it successfully.
+  - I limited the ages field to a max of 99 and a minimum of 1, this will prevent any numbers over 3 digits from being submitted.
+  - I tested all other field validation and I could not submit until all was filled out including the radio buttons. I done this using the required property
 
 ![Sign Up](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/form.JPG)
 
