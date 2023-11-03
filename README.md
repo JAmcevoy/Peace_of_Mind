@@ -6,7 +6,7 @@ Peace of Mind is a meditation site that hopes to help people better understand t
 
 This site is for all types of people and will have different methods of meditation for every situation. Along with the option to be added to an email list, which would be sent out weekly with motivational quotes and little tips and tricks on getting the most out of meditation.
 
-![Responsice Mockup](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/responsive%20all%20screens.JPG)
+![Responsice Mockup](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/readme/images/responsive-all-screens.JPG)
 
 ## User Needs
 
@@ -26,8 +26,8 @@ This site is for all types of people and will have different methods of meditati
   - For larger screens like laptops and PCs, I set the nav menu out in a row evenly spaced with heavy font and larger font sizes. This utilizes the space of the screen but gives a better display for users who are visually impaired. 
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-![Nav Bar](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/nav%20bar.JPG)
-![Nav Bar Responsive](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/nav-small.JPG)
+![Nav Bar](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/readme/images/nav-bar.JPG)
+![Nav Bar Responsive](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/readme/images/nav-small.JPG)
 
 - __In The Following Pages__
 
@@ -36,16 +36,16 @@ This site is for all types of people and will have different methods of meditati
   - Using Flexbox, I made the photos and information sit next to each other on larger screens.
   - I put the photo in a circle to give the section a playful but organized look. For smaller screens, this image drops below the text section and goes back to square this is to make the page more linear on mobile and tablet devices.
 
-![Welcome Page](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/landing%20page%20one.JPG)
+![Welcome Page](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/readme/images/landing-page-one.JPG)
 
-![Welcome Section](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/landing%20page%20two.JPG)
+![Welcome Page Small](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/readme/images/landing-page-two.JPG)
 
 - __Media Section__
 
   - This section shows the user some examples of meditation.
   - The Video showcases that meditation is not just a solo activity and can be done in company.
 
-![Media Section](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/video.JPG)
+![Media Section](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/readme/images/video.JPG)
 
 - __The Footer__
 
@@ -53,7 +53,7 @@ This site is for all types of people and will have different methods of meditati
   - The footer is valuable to the user as it encourages them to keep connected via social media.
   - I did not have wed pages for the links so I set all links to login pages except for youtube, which just goes to the YouTube homepage.
 
-![Footer](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/footer.JPG)
+![Footer](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/readme/images/footer.JPG)
 
 - __Benefits of a Healthy Mind__
 
@@ -62,7 +62,7 @@ This site is for all types of people and will have different methods of meditati
   - I left the bullet point on a larger screen so the information seems more organized and together.
   - On Smaller screens, the content gets rid of the bullet points and centers to make the most of screens like mobile phones and tablets
 
-![Benefits of a Healthy Mind](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/benefits%20page.JPG)
+![Benefits of a Healthy Mind](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/readme/images/footer.JPG)
 
 - __Factors That Can Influence Your Mental State__
 
@@ -71,7 +71,7 @@ This site is for all types of people and will have different methods of meditati
   - I moved this information to the right side of the page to separate the information letting the user know it is different information.
   - With a smaller screen, the gap between the two divs closes to make the best of the space but the color still sets apart the information.
  
-  ![Benefits of a Healthy Mind](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/benefits_page-small.JPG)
+  ![Benefits of a Healthy Mind](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/readme/images/benefits_page-small.JPG)
 
   - __Techniques__
 
@@ -80,15 +80,15 @@ This site is for all types of people and will have different methods of meditati
   - Like the benefits page I used color and alignment to set apart the information, while on this page I split the rows opposite each row. I felt this would make the page more appealing encouraging people to read the information.
   - I Added icons to each type with symbols I believed closely represented the type of meditation, This will allow users who might not be the best readers to understand what each type consists of. Making the page fun but also a bit more accessible. 
 
-  ![Techniques](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/techniques%20page.JPG)
-  ![Techniques](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/techniques%20page-small.JPG)
+  ![Techniques](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/readme/images/techniques-page.JPG)
+  ![Techniques](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/readme/images/techniques-page-small.JPG)
 - __The Sign Up Page__
 
   - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able to specify if they would like to take part in road, trail, or both types of running. The user will be asked to submit their full name and email address.
   - When selected the submit button background goes black letting the user know they have selected it successfully.
   - I limited the ages field to a max of 99 and a minimum of 1, this will prevent any numbers over 3 digits from being submitted.
 
-![Sign Up](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/form.JPG)
+![Sign Up](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/readme/images/form.JPG)
 
 
 ### Features Left to Implement
@@ -99,13 +99,13 @@ This site is for all types of people and will have different methods of meditati
 
 - I tested that this page works in different browsers: Chrome, Firefox, Microsoft Edge, and Safari.
 
-![Chrome](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/chrome.JPG)
+![Chrome](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/readme/images/chrome.JPG)
 
-![Firefox](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/firefox.JPG)
+![Firefox](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/readme/images/firefox.JPG)
 
-![Microsoft Edge](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/Edge%20(1).JPG)
+![Microsoft Edge](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/readme/images/Edge.JPG)
 
-![Safari](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/safari.jpg)
+![Safari](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/readme/images/safari.jpg)
 
 
 - I confirmed the site was responsive using the Chrome dev tools device toolbar.
@@ -117,10 +117,10 @@ This site is for all types of people and will have different methods of meditati
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
-    ![html vidator](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/html_Val.JPG)
+    ![html vidator](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/readme/images/html_Val.JPG)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
-    ![css vidator](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/css_Val.JPG)
+    ![css vidator](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/readme/images/css_Val.JPG)
 
 ### Bugs I Faced Along The Way
 
