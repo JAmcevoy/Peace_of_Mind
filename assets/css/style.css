@@ -2,7 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Open+Sans:wght@300&family=Oswald:wght@200&family=Sofia+Sans:wght@300&display=swap');
 
 /* default */
-
 * {
     margin: 0;
     padding: 0;
@@ -14,7 +13,6 @@
 }
 
 /* heading */
-
 #heading {
     padding: 70px 0;
     margin: 0px;
@@ -27,7 +25,6 @@
 }
 
 /* nav menu */
-
 #menu {
     padding: 20px 0 50px;
     text-align: center;
@@ -53,7 +50,6 @@ header a {
 }
 
 /* Main body */
-
 body {
     display: flex;
     flex-direction: column;
@@ -90,7 +86,6 @@ h5 {
 }
 
 /* Landing page */
-
 #welcome {
     text-align: center;
     font-size: xx-large;
@@ -120,7 +115,6 @@ h5 {
 }
 
 /* circle image and video */
-
 #circle-img {
     position: relative;
     width: 300px;
@@ -146,7 +140,6 @@ video {
 }
 
 /* benefits page */
-
 #influence {
     padding-left: 30px;
 }
@@ -156,7 +149,6 @@ video {
 }
 
 /* color and alignment of content benefits and techniques */
-
 .align-right {
     background: #007a8a;
     padding: 20px;
@@ -170,7 +162,6 @@ video {
 }
 
 /* sign up page */
-
 #main-form {
     padding: 0;
     text-align: center;
@@ -180,7 +171,6 @@ video {
     height: 900px;
     background-image: url(../images/stones.jpg);
     background-size: cover;
-
 }
 
 #email-form {
@@ -204,7 +194,6 @@ video {
 }
 
 /* submit button */
-
 #submit {
     color: #ffffff;
     font-weight: 900;
@@ -227,7 +216,6 @@ video {
 }
 
 /* footer and social links */
-
 footer {
     padding: 20px 40px 20px;
     background-color: rgb(0, 5, 147);
