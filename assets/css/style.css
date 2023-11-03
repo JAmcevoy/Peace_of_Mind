@@ -131,6 +131,7 @@ video {
     position: relative;
     height: auto;
     width: 100%;
+    background-color: black;
 }
 
 .align-right {
