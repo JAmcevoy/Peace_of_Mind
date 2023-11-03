@@ -6,7 +6,7 @@ Peace of Mind is a meditation site that hopes to help people better understand t
 
 This site is for all types of people and will have different methods of meditation for every situation. Along with the option to be added to an email list, which would be sent out weekly with motivational quotes and little tips and tricks on getting the most out of meditation.
 
-![Responsice Mockup](readme/images/responsive-all-screens.JPG)
+![Responsice Mockup](doc/images/responsive-all-screens.JPG)
 
 ## User Needs
 
@@ -25,8 +25,8 @@ This site is for all types of people and will have different methods of meditati
   - For larger screens like laptops and PCs, I set the nav menu out in a row evenly spaced with heavy font and larger font sizes. This utilizes the space of the screen but gives a better display for users who are visually impaired.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-![Nav Bar](readme/images/nav-bar.JPG)
-![Nav Bar Responsive](readme/images/nav-small.JPG)
+![Nav Bar](doc/images/nav-bar.JPG)
+![Nav Bar Responsive](doc/images/nav-small.JPG)
 
 - __In The Following Pages__
 
@@ -35,9 +35,9 @@ This site is for all types of people and will have different methods of meditati
   - Using Flexbox, I made the photos and information sit next to each other on larger screens.
   - I put the photo in a circle to give the section a playful but organized look. For smaller screens, this image drops below the text section and goes back to square this is to make the page more linear on mobile and tablet devices.
 
-![Welcome Page](readme/images/landing-page-one.JPG)
+![Welcome Page](doc/images/landing-page-one.JPG)
 
-![Welcome Page Responsive](readme/images/landing-page-two.JPG)
+![Welcome Page Responsive](doc/images/landing-page-two.JPG)
 
 - __Video Section__
 
@@ -45,7 +45,7 @@ This site is for all types of people and will have different methods of meditati
   - The Video showcases that meditation is not just a solo activity and can be done in company.
   - The video does not play the user hit play.
 
-![Video Section](readme/images/video.JPG)
+![Video Section](doc/images/video.JPG)
 
 - __The Footer__
 
@@ -53,7 +53,7 @@ This site is for all types of people and will have different methods of meditati
   - The footer is valuable to the user as it encourages them to keep connected via social media.
   - I did not have wed pages for the links so I set all links to login pages except for youtube, which just goes to the YouTube homepage.
 
-![Footer](readme/images/footer.JPG)
+![Footer](doc/images/footer.JPG)
 
 - __Benefits of a Healthy Mind__
 
@@ -62,7 +62,7 @@ This site is for all types of people and will have different methods of meditati
   - I left the bullet point on a larger screen so the information seems more organized and together.
   - On Smaller screens, the content gets rid of the bullet points and centers to make the most of screens like mobile phones and tablets
 
-![Benefits of a Healthy Mind](readme/images/benefits-page.JPG)
+![Benefits of a Healthy Mind](doc/images/benefits-page.JPG)
 
 - __Factors That Can Influence Your Mental State__
 
@@ -71,7 +71,7 @@ This site is for all types of people and will have different methods of meditati
   - I moved this information to the right side of the page to separate the information letting the user know it is different information.
   - With a smaller screen, the gap between the two divs closes to make the best of the space but the color still sets apart the information.
 
-  ![Benefits of a Healthy Mind Responsive](readme/images/benefits_page-small.JPG)
+  ![Benefits of a Healthy Mind Responsive](doc/images/benefits_page-small.JPG)
 
   - __Techniques__
 
@@ -80,15 +80,15 @@ This site is for all types of people and will have different methods of meditati
   - Like the benefits page I used color and alignment to set apart the information, while on this page I split the rows opposite each row. I felt this would make the page more appealing encouraging people to read the information.
   - I Added icons to each type with symbols I believed closely represented the type of meditation, This will allow users who might not be the best readers to understand what each type consists of. Making the page fun but also a bit more accessible.
 
-  ![Techniques](readme/images/techniques-page.JPG)
-  ![Techniques Responsive](readme/images/techniques-page-small.JPG)
+  ![Techniques](doc/images/techniques-page.JPG)
+  ![Techniques Responsive](doc/images/techniques-page-small.JPG)
 - __The Sign Up Page__
 
   - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able to specify if they would like to take part in road, trail, or both types of running. The user will be asked to submit their full name and email address.
   - When selected the submit button background goes black letting the user know they have selected it successfully.
   - I limited the ages field to a max of 99 and a minimum of 1, this will prevent any numbers over 3 digits from being submitted.
 
-![Sign Up](readme/images/form.JPG)
+![Sign Up](doc/images/form.JPG)
 
 ### Features Left to Implement
 
@@ -98,13 +98,13 @@ This site is for all types of people and will have different methods of meditati
 
 - I tested that this page works in different browsers: Chrome, Firefox, Microsoft Edge, and Safari.
 
-![Chrome](readme/images/chrome.JPG)
+![Chrome](doc/images/chrome.JPG)
 
-![Firefox](readme/images/firefox.JPG)
+![Firefox](doc/images/firefox.JPG)
 
-![Microsoft Edge](readme/images/Edge.JPG)
+![Microsoft Edge](doc/images/Edge.JPG)
 
-![Safari](readme/images/safari.jpg)
+![Safari](doc/images/safari.jpg)
 
 - I confirmed the site was responsive using the Chrome dev tools device toolbar.
 - I can confirm that the nav and social links are reliable and easy to understand, Also the social links open in a new tab and open apps on mobile phones.
@@ -115,10 +115,10 @@ This site is for all types of people and will have different methods of meditati
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
-    ![html vidator](readme/images/html_Val.JPG)
+    ![html vidator](doc/images/html_Val.JPG)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
-    ![css vidator](readme/images/css_Val.JPG)
+    ![css vidator](doc/images/css_Val.JPG)
 
 ### Bugs I Faced Along The Way
 
