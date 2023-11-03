@@ -50,7 +50,8 @@ This site is for all types of people and will have different methods of meditati
 - __The Footer__
 
   - The footer section includes links to the relevant social media sites for Peace Of Mind. The links will open to a new tab to allow easy navigation for the user.
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
+  - I did not have wed pages for the links so I set all links to login pages except for youtube, which just goes to the YouTube homepage.
 
 ![Footer](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/assets/images/footer.JPG)
 
