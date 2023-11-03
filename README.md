@@ -8,6 +8,8 @@ This site is for all types of people and will have different methods of meditati
 
 ![Responsice Mockup](https://github.com/JAmcevoy/Peace_of_Mind/blob/main/readme/images/responsive-all-screens.JPG)
 
+![Responsice Mockup](readme/images/responsive-all-screens.JPG)
+
 ## User Needs
 
 - I would want the website to be accessible from different devices (Phone, Laptop, PC, Tablet).
